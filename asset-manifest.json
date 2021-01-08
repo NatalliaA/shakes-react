@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NatalliaA/shakes-react.git/static/css/main.2decb9a4.chunk.css",
-    "main.js": "/NatalliaA/shakes-react.git/static/js/main.e68cccd4.chunk.js",
-    "main.js.map": "/NatalliaA/shakes-react.git/static/js/main.e68cccd4.chunk.js.map",
-    "runtime-main.js": "/NatalliaA/shakes-react.git/static/js/runtime-main.1f16791c.js",
-    "runtime-main.js.map": "/NatalliaA/shakes-react.git/static/js/runtime-main.1f16791c.js.map",
-    "static/js/2.85e18603.chunk.js": "/NatalliaA/shakes-react.git/static/js/2.85e18603.chunk.js",
-    "static/js/2.85e18603.chunk.js.map": "/NatalliaA/shakes-react.git/static/js/2.85e18603.chunk.js.map",
-    "index.html": "/NatalliaA/shakes-react.git/index.html",
-    "static/css/main.2decb9a4.chunk.css.map": "/NatalliaA/shakes-react.git/static/css/main.2decb9a4.chunk.css.map",
-    "static/js/2.85e18603.chunk.js.LICENSE.txt": "/NatalliaA/shakes-react.git/static/js/2.85e18603.chunk.js.LICENSE.txt"
+    "main.css": "/NatalliaA/shakes-react/static/css/main.2decb9a4.chunk.css",
+    "main.js": "/NatalliaA/shakes-react/static/js/main.e68cccd4.chunk.js",
+    "main.js.map": "/NatalliaA/shakes-react/static/js/main.e68cccd4.chunk.js.map",
+    "runtime-main.js": "/NatalliaA/shakes-react/static/js/runtime-main.d6544d73.js",
+    "runtime-main.js.map": "/NatalliaA/shakes-react/static/js/runtime-main.d6544d73.js.map",
+    "static/js/2.85e18603.chunk.js": "/NatalliaA/shakes-react/static/js/2.85e18603.chunk.js",
+    "static/js/2.85e18603.chunk.js.map": "/NatalliaA/shakes-react/static/js/2.85e18603.chunk.js.map",
+    "index.html": "/NatalliaA/shakes-react/index.html",
+    "static/css/main.2decb9a4.chunk.css.map": "/NatalliaA/shakes-react/static/css/main.2decb9a4.chunk.css.map",
+    "static/js/2.85e18603.chunk.js.LICENSE.txt": "/NatalliaA/shakes-react/static/js/2.85e18603.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f16791c.js",
+    "static/js/runtime-main.d6544d73.js",
     "static/js/2.85e18603.chunk.js",
     "static/css/main.2decb9a4.chunk.css",
     "static/js/main.e68cccd4.chunk.js"
