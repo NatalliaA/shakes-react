@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(to bottom, rgb(58, 25, 1) 0%, rgb(223, 186, 138) 100%);
+  font-family: 'Raleway', sans-serif;
+}

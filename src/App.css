@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  padding: 2em;
+}
+
+h1 {
+  font-size: 4em;
+  color: rgb(250, 250, 218);
+}

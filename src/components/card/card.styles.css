@@ -1,0 +1,23 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(250, 250, 218);
+  border-radius: 5px;
+  padding: 1em;
+  cursor: pointer;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+  transform: scale(1.04);
+}
+
+.card-container>img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+h2 {
+  color: rgb(58, 25, 1);
+}
